@@ -8,9 +8,4 @@ devoured BOOL,
 PRIMARY KEY(id)
 )
 
-CREATE TABLE burgers (
-
-INSERT INTO burgers (burger_name, devoured)
-INSERT INTO burgers (burger_name, devoured)
-INSERT INTO burgers (burger_name, devoured);
-
+CREATE TABLE burgers
